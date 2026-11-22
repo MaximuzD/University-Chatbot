@@ -1,0 +1,27 @@
+[
+  {
+    "ticketId": "TKT-2862",
+    "timestamp": "2026-11-15T19:46:57.685Z",
+    "studentName": "Alex Rivera",
+    "studentId": "#20268841",
+    "department": "Academic & Student Affairs",
+    "issueSummary": "ghiii",
+    "chatTranscript": "ASSISTANT: Hello Alex! 👋 I am your **Horizon University AI Support Desk Assistant**. \n\nI can help answer questions directly from our **10 official university policy handbooks** (academic deadlines, grading scales, tuition refund dates, IT credentials, library fines, and housing rules). \n\nHow can I assist you today?\n\nUSER: what are the fees per year\n\nASSISTANT: I reviewed the official Horizon University policy documentation, but your inquiry may involve a personal account review, specific departmental authorization, or is not explicitly covered in the published policy handbooks.\n\nPlease click the **\"Talk to a Human\"** button in the chat header or below to open an official escalation ticket with our Student Affairs staff. We will forward your student ID (#20268841) and conversation transcript directly to the designated department.",
+    "notes": "dddd",
+    "status": "Resolved",
+    "staffResponse": "no",
+    "respondedBy": "Dr. Eleanor Vance (Dean of Student Affairs)",
+    "respondedAt": "2026-11-15T19:51:28.137Z"
+  },
+  {
+    "ticketId": "TKT-1001",
+    "timestamp": "2026-11-14T09:30:00.000Z",
+    "studentName": "Alex Rivera",
+    "studentId": "#20268841",
+    "department": "Office of the University Registrar",
+    "issueSummary": "Requesting syllabus evaluation for transfer credits from summer college calculus",
+    "chatTranscript": "Student inquired if Math 201 transfers for CS major requirement. Advised submitting syllabus to department chair.",
+    "notes": "Official transcript received by admissions on Nov 10.",
+    "status": "In Progress"
+  }
+]

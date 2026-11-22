@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+    --bg-page: light-dark(#f8fafc, #090d16);
+    --bg-surface: light-dark(#ffffff, #0f172a);
+    --bg-surface-elevated: light-dark(#ffffff, #1e293b);
+    --bg-sidebar: light-dark(#0f172a, #030712);
+    --border-color: light-dark(#e2e8f0, #1e293b);
+    --border-subtle: light-dark(#f1f5f9, #172033);
+    --text-primary: light-dark(#0f172a, #f8fafc);
+    --text-secondary: light-dark(#475569, #94a3b8);
+    --text-muted: light-dark(#64748b, #64748b);
+    --brand-primary: #1d4ed8;
+  }
+
+  html.dark {
+    color-scheme: dark;
+    --bg-page: #090d16;
+    --bg-surface: #0f172a;
+    --bg-surface-elevated: #1e293b;
+    --bg-sidebar: #030712;
+    --border-color: #1e293b;
+    --border-subtle: #172033;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+  }
+
+  html:not(.dark) {
+    color-scheme: light;
+    --bg-page: #f8fafc;
+    --bg-surface: #ffffff;
+    --bg-surface-elevated: #ffffff;
+    --bg-sidebar: #0f172a;
+    --border-color: #e2e8f0;
+    --border-subtle: #f1f5f9;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-muted: #64748b;
+  }
+}
+
+body {
+  color: var(--text-primary);
+  background-color: var(--bg-page);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.011em;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Card and container abstractions adapting to theme tokens */
+.surface-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  border-radius: 12px;
+}
+
+.surface-elevated {
+  background-color: var(--bg-surface-elevated);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+/* Modern web scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: light-dark(#cbd5e1, #334155);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: light-dark(#94a3b8, #475569);
+}
+
+/* Native Top-Layer Modal Transitions with allow-discrete (Modern Web Guidance) */
+.modal-backdrop-animate {
+  animation: fadeInBackdrop 0.18s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.modal-content-animate {
+  animation: scaleInModal 0.22s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes fadeInBackdrop {
+  from {
+    opacity: 0;
+    backdrop-filter: blur(0px);
+  }
+  to {
+    opacity: 1;
+    backdrop-filter: blur(4px);
+  }
+}
+
+@keyframes scaleInModal {
+  from {
+    opacity: 0;
+    transform: scale(0.97) translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* Astryx Design System Layout & Component Tokens */
+.astryx-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.astryx-card:hover {
+  border-color: light-dark(#cbd5e1, #334155);
+}
+
+.astryx-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 6px;
+  line-height: 1.4;
+}
+

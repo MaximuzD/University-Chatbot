@@ -1,0 +1,459 @@
+[
+  {
+    "id": "doc-01",
+    "filename": "01_Academic_Calendar_and_Exam_Regulations.pdf",
+    "title": "Academic Calendar and Exam Regulations",
+    "category": "Academics",
+    "department": "Office of the University Registrar",
+    "lastUpdated": "Fall 2026",
+    "summary": "Comprehensive guide to course registration deadlines, add/drop periods, official grading scale, exam deferral procedures, and medical excuse policies.",
+    "sections": [
+      {
+        "heading": "1. Key Academic Dates (Academic Year 2026-2027)",
+        "lines": [
+          "Fall Semester Registration Deadline: September 4, 2026 at 11:59 PM EST.",
+          "Add/Drop Period: August 28 - September 11, 2026 (100% tuition adjustment, no transcript mark).",
+          "Course Withdrawal Deadline (W grade recorded): October 23, 2026.",
+          "Final Examination Week: December 14 - December 21, 2026 (Room assignments posted in Student Portal)."
+        ]
+      },
+      {
+        "heading": "2. Official Grading Scale & GPA Computation",
+        "lines": [
+          "A (4.00, 93-100%), A- (3.70, 90-92%), B+ (3.30, 87-89%), B (3.00, 83-86%), B- (2.70, 80-82%).",
+          "C+ (2.30, 77-79%), C (2.00, 73-76%), C- (1.70, 70-72%), D (1.00, 60-69%), F (0.00, Below 60%).",
+          "Dean's Honor List requirement: Term GPA >= 3.75 with minimum 15 graded credits and zero Incompletes.",
+          "Academic Probation occurs if cumulative GPA drops below 2.00."
+        ]
+      },
+      {
+        "heading": "3. Exam Deferral & Medical Absence Protocol",
+        "lines": [
+          "Students with documented medical emergencies must submit Form MED-9 within 48 hours of missed exam.",
+          "Documentation must be signed by a licensed practitioner and verified by Student Health Clinic (Room 102).",
+          "Approved deferred examinations are scheduled during the first two weeks of the subsequent semester.",
+          "A temporary grade of 'I' (Incomplete) expires into 'F' after 60 calendar days if unresolved."
+        ]
+      },
+      {
+        "heading": "4. Departmental Contact Information",
+        "lines": [
+          "Registrar Office: Hall of Administration, Room 114 | registrar@horizon.edu | Phone: (555) 019-2831",
+          "Walk-in Hours: Monday-Friday 9:00 AM - 4:30 PM EST."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-02",
+    "filename": "02_Tuition_Refunds_and_Financial_Aid_Policy.pdf",
+    "title": "Tuition Refunds and Financial Aid Policy",
+    "category": "Finance",
+    "department": "Bursar & Financial Aid Office",
+    "lastUpdated": "Fall 2026",
+    "summary": "Tuition billing schedules, payment installment plans, prorated refund percentages, merit scholarship maintenance conditions, and FAFSA compliance rules.",
+    "sections": [
+      {
+        "heading": "1. Tuition Due Dates & Installment Plans",
+        "lines": [
+          "Fall 2026 Tuition Due Date: August 18, 2026. Spring 2027 Due Date: January 12, 2027.",
+          "Late Payment Fee: $125 assessed on accounts with outstanding balances after payment due date.",
+          "Deferred 4-Pay Installment Plan: $45 non-refundable enrollment fee; payments split across 4 monthly dates (Aug 18, Sep 18, Oct 18, Nov 18)."
+        ]
+      },
+      {
+        "heading": "2. Prorated Tuition Refund Schedule",
+        "lines": [
+          "Withdrawal during Weeks 1-2 (before Sep 11, 2026): 100% tuition refund (minus $100 processing fee).",
+          "Withdrawal during Week 3 (Sep 12 - Sep 18, 2026): 75% tuition refund.",
+          "Withdrawal during Week 4 (Sep 19 - Sep 25, 2026): 50% tuition refund.",
+          "Withdrawal after Week 4 (Sep 26 onward): 0% refund. Lab fees and technology fees are strictly non-refundable."
+        ]
+      },
+      {
+        "heading": "3. Merit Scholarships & Financial Aid Renewal",
+        "lines": [
+          "Horizon Presidential Merit Scholarship ($12,000/yr) requires cumulative GPA >= 3.50 and 30 credits/yr.",
+          "Dean's Excellence Grant ($6,000/yr) requires cumulative GPA >= 3.20.",
+          "Scholarship appeals must be filed via Form FA-APPEAL before July 15 for the upcoming academic year."
+        ]
+      },
+      {
+        "heading": "4. Departmental Contact Information",
+        "lines": [
+          "Bursar Office: Financial Services Tower, Suite 210 | bursar@horizon.edu | Phone: (555) 019-4420",
+          "Financial Aid Helpdesk: finaid@horizon.edu | Phone: (555) 019-4421"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-03",
+    "filename": "03_Campus_Housing_and_Residence_Handbook.pdf",
+    "title": "Campus Housing and Residence Handbook",
+    "category": "Housing",
+    "department": "Office of Residential Life",
+    "lastUpdated": "Fall 2026",
+    "summary": "Residence hall living regulations, mandatory quiet hours, overnight guest registration rules, facility maintenance turnaround SLAs, and checkout inspection charges.",
+    "sections": [
+      {
+        "heading": "1. Residence Quiet Hours & Community Standards",
+        "lines": [
+          "Standard Quiet Hours: Sunday-Thursday 10:00 PM - 8:00 AM; Friday-Saturday 12:00 Midnight - 9:00 AM.",
+          "24-Hour Courtesy Hours are continuously in effect campus-wide across all residential buildings.",
+          "Exam Week Quiet Hours: Strict 24-hour quiet period begins 48 hours prior to the first final examination.",
+          "First noise violation: Written warning. Second violation: $75 community fine. Third: Housing review."
+        ]
+      },
+      {
+        "heading": "2. Overnight Guest Policies & Sign-In Requirements",
+        "lines": [
+          "All non-resident guests must register at the hall front desk with a valid government or student ID.",
+          "No guest may stay more than 3 consecutive nights or more than 6 nights total in a single calendar month.",
+          "Roommate written consent via the Residential Life Portal is required prior to host guest arrival."
+        ]
+      },
+      {
+        "heading": "3. Maintenance Requests & Room Checkout Inspections",
+        "lines": [
+          "Emergency repairs (water leaks, power loss, door lock failure): Dispatched within 2 hours (24/7 hotline).",
+          "Routine maintenance (lighting, furniture adjustment): Resolved within 3 to 5 business days.",
+          "Move-out inspection fee schedule: Uncleaned room fee $150; lost key replacement $65; wall drywall repair $85."
+        ]
+      },
+      {
+        "heading": "4. Housing Contact Information",
+        "lines": [
+          "Residential Life Office: Horizon Village Center, Room B12 | reslife@horizon.edu | Phone: (555) 019-3300",
+          "24/7 On-Call Resident Assistant Dispatch: (555) 019-3399"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-04",
+    "filename": "04_IT_Services_WiFi_and_Software_Licensing.pdf",
+    "title": "IT Services, WiFi, and Software Licensing",
+    "category": "Technology",
+    "department": "University Information Technology Services (UITS)",
+    "lastUpdated": "Fall 2026",
+    "summary": "Campus-wide Eduroam wireless connection guidelines, student VPN configuration, complimentary software licensing (JetBrains, Office 365, MATLAB), and identity security protocols.",
+    "sections": [
+      {
+        "heading": "1. Eduroam Wireless Network Configuration",
+        "lines": [
+          "SSID: 'eduroam' (WPA2/WPA3 Enterprise authentication).",
+          "Username format: studentID@horizon.edu (e.g., 20268841@horizon.edu). Use your Horizon Portal password.",
+          "Guest Wi-Fi network: 'Horizon-Guest' provides 4Mbps bandwidth throttled connection, valid for 24 hours.",
+          "IoT Devices (consoles, smart TVs) must be registered via mac-auth.horizon.edu using device MAC address."
+        ]
+      },
+      {
+        "heading": "2. Free Student Software Licenses & Developer Tools",
+        "lines": [
+          "Microsoft 365 Apps for Enterprise: Word, Excel, PowerPoint, Teams (install on up to 5 personal devices).",
+          "JetBrains All Products Pack: Free educational license renewed annually with university email domain.",
+          "MATLAB & Simulink Campus-Wide Suite: Download installer from mathworks.com/license/horizon.",
+          "GitHub Student Developer Pack: Access via github.com/education using university single sign-on."
+        ]
+      },
+      {
+        "heading": "3. Campus VPN & Multi-Factor Authentication (MFA)",
+        "lines": [
+          "GlobalProtect VPN endpoint: vpn.horizon.edu (required to access research clusters and library proxies off-campus).",
+          "MFA authentication is mandatory for all accounts via Duo Security or Google Authenticator.",
+          "Password self-service reset portal: identity.horizon.edu (passwords expire every 180 days)."
+        ]
+      },
+      {
+        "heading": "4. IT Helpdesk Contacts",
+        "lines": [
+          "IT Support Center: Tech Commons Ground Floor, Room 045 | itsupport@horizon.edu | Phone: (555) 019-4357 (HELP)",
+          "Hours: Monday-Thursday 8:00 AM - 8:00 PM, Friday 8:00 AM - 5:00 PM EST."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-05",
+    "filename": "05_Library_and_Research_Facilities_Policy.pdf",
+    "title": "Library and Research Facilities Policy",
+    "category": "Academic Support",
+    "department": "Horizon University Libraries",
+    "lastUpdated": "Fall 2026",
+    "summary": "Circulation borrowing limits, interlibrary loan guidelines, overdue item fee structures, 24/7 collaborative study room booking procedures, and high-performance computing room access.",
+    "sections": [
+      {
+        "heading": "1. Book & Equipment Borrowing Limits",
+        "lines": [
+          "Undergraduate students may borrow up to 25 physical books simultaneously for a 28-day loan cycle.",
+          "Course reserve textbooks: 3-hour in-library checkout only, renewable once if no hold queue exists.",
+          "Multimedia equipment checkout (laptops, DSLR cameras, podcast audio kits): 72-hour checkout limit.",
+          "Interlibrary Loans (ILLiad): Free of charge; electronic articles delivered within 48 hours."
+        ]
+      },
+      {
+        "heading": "2. Overdue Fines & Lost Material Charges",
+        "lines": [
+          "Standard circulation books: $0.50 per day per item (maximum fine cap $25.00 per item).",
+          "Course reserve materials: $2.00 per hour overdue fee (no fine cap).",
+          "Tech equipment: $15.00 per day overdue fee. Items 14 days overdue are declared lost ($850 replacement invoice).",
+          "Fine waivers: Allowed once per academic year for first-time minor infractions (under $10) via Front Desk appeal."
+        ]
+      },
+      {
+        "heading": "3. 24/7 Study Room Reservations & Research Labs",
+        "lines": [
+          "Group study rooms (Rooms 201-224): Reserve online via library.horizon.edu/rooms up to 7 days in advance.",
+          "Booking duration: Maximum 3 hours per student per day; room reservations forfeit after 15 minutes no-show.",
+          "Level 4 is designated as a Permanent Silent Study Zone. Cell phone calls are strictly prohibited on Levels 3 and 4."
+        ]
+      },
+      {
+        "heading": "4. Library Contact Information",
+        "lines": [
+          "Main Library: Founders Library Building | library@horizon.edu | Phone: (555) 019-2100",
+          "Research Librarian Desk: Chat online at library.horizon.edu/chat (Mon-Fri 10:00 AM - 6:00 PM)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-06",
+    "filename": "06_Student_Conduct_and_Academic_Integrity_Code.pdf",
+    "title": "Student Conduct and Academic Integrity Code",
+    "category": "Governance",
+    "department": "Office of Student Conduct & Community Standards",
+    "lastUpdated": "Fall 2026",
+    "summary": "Definitions of academic dishonesty, strict guidelines on generative AI usage across coursework, disciplinary sanction tiers, and the formal judicial appeal tribunal process.",
+    "sections": [
+      {
+        "heading": "1. Violations of Academic Integrity",
+        "lines": [
+          "Plagiarism: Submitting work prepared by another, failing to cite quotations, paraphrasing without attribution.",
+          "Unauthorized Collaboration: Sharing assignment solutions or exam answers without explicit instructor consent.",
+          "Falsification: Fabricating research experimental data, forging academic or medical certificates.",
+          "Contract Cheating: Purchasing essays or code from commercial essay mills or freelance third parties."
+        ]
+      },
+      {
+        "heading": "2. Generative AI Tools Usage Policy",
+        "lines": [
+          "Category Green (Permitted): Use of AI for grammar checking, brainstorming, and literature discovery when cited.",
+          "Category Yellow (Conditional): AI code assistance permitted only when explicitly designated in course syllabus.",
+          "Category Red (Prohibited): Submitting unedited AI-generated prose or code as original student submissions.",
+          "All AI assistance must be disclosed in an 'AI Acknowledgement Statement' accompanying the assignment."
+        ]
+      },
+      {
+        "heading": "3. Sanction Tiers & Disciplinary Tribunal Appeals",
+        "lines": [
+          "Level 1 Violation: Reprimand, mandatory 0 on the affected assignment, mandatory Ethics Workshop completion.",
+          "Level 2 Violation: 'XF' grade (Failure due to Academic Dishonesty) recorded on transcript for the entire course.",
+          "Level 3 Violation (Repeated offense): Formal recommendation for one-year academic suspension or expulsion.",
+          "Appeals: Must be submitted to the Academic Integrity Tribunal within 5 business days of sanction notice."
+        ]
+      },
+      {
+        "heading": "4. Conduct Office Contact",
+        "lines": [
+          "Office of Student Conduct: Union Hall, Room 308 | conduct@horizon.edu | Phone: (555) 019-5500",
+          "Confidential Integrity Hotline: (555) 019-SAFE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-07",
+    "filename": "07_Campus_Health_Wellness_and_Counseling_Services.pdf",
+    "title": "Campus Health, Wellness, and Counseling Services",
+    "category": "Health & Wellness",
+    "department": "Horizon Student Health & Counseling Center",
+    "lastUpdated": "Fall 2026",
+    "summary": "Outpatient primary medical care hours, mental health therapy session allowances, mandatory immunization deadlines, student health insurance waivers, and crisis hotlines.",
+    "sections": [
+      {
+        "heading": "1. Medical Clinic Services & Hours",
+        "lines": [
+          "Primary Care Clinic: Wellness Center Level 1 | Open Mon-Fri 8:30 AM - 5:00 PM; Sat 9:00 AM - 1:00 PM.",
+          "Co-pay: $0 co-pay for full-time enrolled students for basic physician consultations and nurse triage.",
+          "In-house services: Rapid strep/flu testing ($15), routine bloodwork, travel immunizations, minor sutures.",
+          "After-hours nurse triage helpline: (555) 019-WELL (available 24 hours/day, 365 days/year)."
+        ]
+      },
+      {
+        "heading": "2. Counseling & Psychological Services (CAPS)",
+        "lines": [
+          "Enrolled students receive up to 10 free individual counseling sessions per academic year.",
+          "Unlimited access to specialized group therapy workshops (Anxiety Management, Graduate Stress, Mindfulness).",
+          "Urgent crisis walk-in appointments available daily with no prior booking between 10:00 AM and 3:00 PM.",
+          "Emergency Suicide & Crisis Lifeline: Dial 988 or text 'HORIZON' to 741741."
+        ]
+      },
+      {
+        "heading": "3. Immunization Requirements & Insurance Waivers",
+        "lines": [
+          "Mandatory Vaccines: MMR (2 doses), Meningococcal ACWY (within 5 years for dorm residents), Tdap (within 10 yrs).",
+          "Immunization documentation due date: August 1 for Fall semester enrollment (holds placed if incomplete).",
+          "Student Health Insurance Plan ($1,850/yr) is billed automatically unless an approved waiver is filed by Sep 1."
+        ]
+      },
+      {
+        "heading": "4. Wellness Contacts",
+        "lines": [
+          "Appointments: healthcenter@horizon.edu | Phone: (555) 019-9355 | Portal: patient.horizon.edu",
+          "Counseling Desk: caps@horizon.edu | Phone: (555) 019-9356"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-08",
+    "filename": "08_Career_Services_Internships_and_CoOp_Guide.pdf",
+    "title": "Career Services, Internships, and Co-Op Guide",
+    "category": "Career",
+    "department": "Horizon Career Development Center",
+    "lastUpdated": "Fall 2026",
+    "summary": "Undergraduate internship academic credit qualification, Handshake job portal access, on-campus career fairs schedule, resume review clinics, and international student CPT/OPT protocols.",
+    "sections": [
+      {
+        "heading": "1. Internship for Academic Credit Requirements",
+        "lines": [
+          "Students must have completed at least 45 cumulative credit hours with a minimum GPA of 2.75.",
+          "Every 45 verified workplace hours yields 1 academic credit (e.g., 135 hours = 3 credits; maximum 6 credits allowed).",
+          "Internship Learning Agreement (Form INT-101) must be signed by employer and faculty advisor before work begins.",
+          "Retroactive academic credit for completed internships is strictly disallowed under accreditation policy."
+        ]
+      },
+      {
+        "heading": "2. Career Fairs & Professional Clinics Schedule",
+        "lines": [
+          "Fall STEM & Tech Career Fair: October 8, 2026 (Student Union Grand Ballroom, 10:00 AM - 4:00 PM).",
+          "All-Majors Spring Career Expo: February 18, 2027.",
+          "Drop-in 15-minute resume and LinkedIn critique clinics: Tuesdays & Thursdays 1:00 PM - 3:00 PM (Career Center).",
+          "Mock interview booking: Schedule 45-minute behavioral/technical sessions via horizon.joinhandshake.com."
+        ]
+      },
+      {
+        "heading": "3. International Student Work Authorization (CPT & OPT)",
+        "lines": [
+          "F-1 Visa holders must complete 1 full academic year of full-time enrollment before becoming eligible for CPT.",
+          "Curricular Practical Training (CPT) must be directly related to the student's major field of study.",
+          "CPT application deadline: Submit Form I-20-CPT to the International Student Office at least 15 days before start date."
+        ]
+      },
+      {
+        "heading": "4. Career Center Contacts",
+        "lines": [
+          "Career Development Center: Success Hall, 2nd Floor | career@horizon.edu | Phone: (555) 019-8200",
+          "Handshake Portal Support: handshake-help@horizon.edu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-09",
+    "filename": "09_Campus_Parking_Shuttle_and_Transport_Rules.pdf",
+    "title": "Campus Parking, Shuttle, and Transport Rules",
+    "category": "Transportation",
+    "department": "Department of Transportation & Parking Services",
+    "lastUpdated": "Fall 2026",
+    "summary": "Permit tier fees for commuter and resident students, electric vehicle charging station rules, free campus shuttle timetables and routes, and parking enforcement violation penalties.",
+    "sections": [
+      {
+        "heading": "1. Parking Permit Tiers & Annual Fees",
+        "lines": [
+          "Commuter Student Permit (Lots C1-C6): $220 per academic year ($125 per single semester).",
+          "Resident Student Permit (Lots R1-R4): $340 per academic year (restricted to assigned residence hall perimeter).",
+          "Evening Only Permit (Valid after 4:30 PM and weekends): $85 per semester.",
+          "Daily scratch-off visitor passes: $8.00 per day; purchase at automated kiosks located at North and South Gates."
+        ]
+      },
+      {
+        "heading": "2. Electric Vehicle (EV) Charging Stations",
+        "lines": [
+          "Campus features 24 Level-2 ChargePoint stations across Parking Garages A and B.",
+          "Charging rate: $0.14 per kWh for the first 3 hours. $5.00/hour idle fee applies after vehicle reaches 100% charge.",
+          "Vehicles parked in EV bays without actively charging will be ticketed $60 for unauthorized bay obstruction."
+        ]
+      },
+      {
+        "heading": "3. Campus Shuttle Routes & Timetable",
+        "lines": [
+          "Blue Line (Campus Perimeter Loop): Runs every 10 minutes from 7:00 AM to 11:00 PM, Monday through Friday.",
+          "Gold Line (Downtown & Metro Transit Hub): Runs every 20 minutes from 7:00 AM to 1:00 AM daily.",
+          "Night Owl Safety Escort Shuttle: On-demand dispatch from 11:00 PM to 4:00 AM via Horizon Ride Mobile App.",
+          "All campus shuttles are 100% free with active Horizon University Student ID card tap."
+        ]
+      },
+      {
+        "heading": "4. Violation Penalties & Appeals",
+        "lines": [
+          "Parking without valid permit: $45 fine. Parking in marked ADA handicap stall without placard: $250 fine.",
+          "Unpaid citations: 3 or more unpaid tickets lead to automatic wheel boot installation ($100 removal charge).",
+          "Citations may be appealed within 10 calendar days at parking.horizon.edu/appeals."
+        ]
+      },
+      {
+        "heading": "5. Parking Office Contacts",
+        "lines": [
+          "Parking Services: North Campus Garage Suite 100 | parking@horizon.edu | Phone: (555) 019-7275 (PARK)",
+          "Dispatch & Roadside Lockout Help: (555) 019-7276"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doc-10",
+    "filename": "10_Student_Clubs_Events_and_Athletics_Handbook.pdf",
+    "title": "Student Clubs, Events, and Athletics Handbook",
+    "category": "Campus Life",
+    "department": "Student Engagement & Recreation Center",
+    "lastUpdated": "Fall 2026",
+    "summary": "Procedures for officially chartering a student organization, event grant funding allocations, student recreation and gym access policies, and intramural league registration.",
+    "sections": [
+      {
+        "heading": "1. Chartering a Recognized Student Organization (RSO)",
+        "lines": [
+          "Requirement: Minimum of 8 enrolled student founding members and 1 full-time faculty/staff advisor.",
+          "Must submit club constitution and bylaws to the Student Activities Council (SAC) by October 1 or February 1.",
+          "Mandatory leadership training: Club President and Treasurer must attend the Fall Risk & Finance Seminar.",
+          "Chartered RSOs receive free on-campus meeting room reservations and official club @horizon.edu email alias."
+        ]
+      },
+      {
+        "heading": "2. Student Organization Activity Grants & Funding",
+        "lines": [
+          "Tier 1 New RSO Startup Grant: $500 automatic startup allocation for newly chartered organizations.",
+          "Annual Budget Allocation: Up to $4,500 granted based on membership size and campus impact proposal.",
+          "Special Event Funding: Applications for events exceeding $1,000 must be submitted 30 days prior to event date.",
+          "Purchase reimbursements require itemized receipts submitted within 14 calendar days of expenditure."
+        ]
+      },
+      {
+        "heading": "3. Campus Recreation & Fitness Center Access",
+        "lines": [
+          "Apex Recreation Center: 85,000 sq ft facility featuring Olympic swimming pool, indoor track, and climbing wall.",
+          "Hours of operation: Monday-Thursday 6:00 AM - Midnight; Friday 6:00 AM - 10:00 PM; Weekends 8:00 AM - 9:00 PM.",
+          "Access is 100% free for enrolled students via Horizon Mobile ID bar-code scanner.",
+          "Guest passes: $10 per day (maximum 2 automated accompanied guests per enrolled student)."
+        ]
+      },
+      {
+        "heading": "4. Intramural Sports Leagues",
+        "lines": [
+          "Fall leagues: 5v5 Basketball, Flag Football, Indoor Soccer, Co-ed Volleyball, Esports (Rocket League/Smash Bros).",
+          "Registration fee: $35 team entry fee for league play. Free agents can register at imleagues.com/horizon.",
+          "Championship winning teams receive official Horizon IM Championship t-shirts and trophy presentation."
+        ]
+      },
+      {
+        "heading": "5. Student Life Contacts",
+        "lines": [
+          "Office of Student Engagement: Campus Union Level 2, Suite 240 | studentlife@horizon.edu | Phone: (555) 019-6100",
+          "Recreation Desk: recreation@horizon.edu | Phone: (555) 019-6150"
+        ]
+      }
+    ]
+  }
+]

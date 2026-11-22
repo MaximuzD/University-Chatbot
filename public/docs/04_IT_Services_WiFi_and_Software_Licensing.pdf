@@ -1,0 +1,80 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 1240 >>
+stream
+BT
+/F1 16 Tf 40 805 Td (IT Services, WiFi, and Software Licensing) Tj
+/F2 9 Tf 0 -18 Td (Document ID: DOC-04 | Department: University IT Services \(UITS\) | Version: Fall 2026) Tj
+ET
+q 0.1 w 0.2 0.3 0.6 RG 40 774 m 555 774 l S Q
+BT
+/F2 9 Tf 40 752 Td
+/F1 11 Tf (1. Eduroam Wireless Network Configuration) Tj
+0 -15 Td
+/F2 9 Tf
+(SSID: 'eduroam' \(WPA2/WPA3 Enterprise authentication\).) Tj
+0 -13 Td
+(Username format: studentID@horizon.edu \(e.g., 20268841@horizon.edu\). Use Horizon Portal password.) Tj
+0 -13 Td
+(Guest Wi-Fi network: 'Horizon-Guest' provides 4Mbps bandwidth throttled connection, valid 24 hours.) Tj
+0 -13 Td
+(IoT Devices \(consoles, smart TVs\) must be registered via mac-auth.horizon.edu using device MAC.) Tj
+0 -21 Td
+/F1 11 Tf (2. Free Student Software Licenses & Developer Tools) Tj
+0 -15 Td
+/F2 9 Tf
+(Microsoft 365 Apps for Enterprise: Word, Excel, PowerPoint, Teams \(install on up to 5 devices\).) Tj
+0 -13 Td
+(JetBrains All Products Pack: Free educational license renewed annually with university email.) Tj
+0 -13 Td
+(MATLAB & Simulink Campus Suite: Download installer from mathworks.com/license/horizon.) Tj
+0 -13 Td
+(GitHub Student Developer Pack: Access via github.com/education using university single sign-on.) Tj
+0 -21 Td
+/F1 11 Tf (3. Campus VPN & Multi-Factor Authentication) Tj
+0 -15 Td
+/F2 9 Tf
+(GlobalProtect VPN endpoint: vpn.horizon.edu \(required to access research clusters off-campus\).) Tj
+0 -13 Td
+(MFA authentication is mandatory for all accounts via Duo Security or Google Authenticator.) Tj
+0 -13 Td
+(Password self-service reset portal: identity.horizon.edu \(passwords expire every 180 days\).) Tj
+0 -21 Td
+/F1 11 Tf (4. IT Helpdesk Contacts) Tj
+0 -15 Td
+/F2 9 Tf
+(IT Support Center: Tech Commons Ground Floor, Room 045 | itsupport@horizon.edu | Phone: \(555\) 019-4357) Tj
+0 -20 Td
+/F2 8 Tf (Horizon University - Office of the Registrar & Student Affairs | Official Policy Document) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000000325 00000 n 
+0000000401 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1720
+%%EOF
